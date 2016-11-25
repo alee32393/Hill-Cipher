@@ -48,7 +48,7 @@ public class Hill {
 						decrypt(top, bottom,determinedant);
 					}
 					else{
-						System.out.println("go fuck yourself");
+						System.out.println("try again");
 			}
 				
 			}
